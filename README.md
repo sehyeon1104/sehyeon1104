@@ -1,4 +1,4 @@
-### Hi there 👋
+<img src="https://img.shields.io/badge/ssas-FFCA28?style=flat-square&logo=C++&logoColor=white"/>
 
 <!--
 **sehyeon1104/sehyeon1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
