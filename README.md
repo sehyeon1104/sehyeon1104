@@ -1,4 +1,4 @@
-<img src="https://img.shields.io/badge/C++-FFCA28?style=flat-square&logo=C++&logoColor=white"/>
+<img src="https://img.shields.io/badge/C++-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>
 
 <!--
 **sehyeon1104/sehyeon1104** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
