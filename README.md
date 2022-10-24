@@ -37,9 +37,10 @@
 > <a href="https://www.instagram.com/sehyeon.&#95;.1104" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/김세현%238989-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
 > <a href="https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-
----
-
+<img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+------
+Github Information
+-----
 ![](https://github-readme-stats.vercel.app/api?username=sehyeon1104&show_icons=true&theme=tokyonight)
 
 [![](https://github-readme-streak-stats.herokuapp.com?user=sehyeon1104&theme=dracula&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
