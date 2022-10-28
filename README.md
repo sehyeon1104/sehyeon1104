@@ -30,6 +30,7 @@
 > <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
 ><img src="https://img.shields.io/badge/Desktop-5C2D91?style=flat&logo=GitHub&logoColor=white"/>
 > <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 
 ❤️Contact❤️
 ---------------
