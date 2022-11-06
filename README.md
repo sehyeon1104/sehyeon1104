@@ -48,7 +48,7 @@ Github Information
 
 ![opgc](https://api.opgc.me/githubs/users/sehyeon1104/tag/?theme=dracula)
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thnaks%20For%20Visiting!!&fontSize=70&animation=fadeIn&fontAlignY=70&fontColor=FFFFFF)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=footer&text=Thanks%20For%20Visiting!!&fontSize=70&animation=fadeIn&fontAlignY=70&fontColor=FFFFFF)
  
 
 
