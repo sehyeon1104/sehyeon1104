@@ -29,7 +29,7 @@ My name is Kim Se-hyeon aspiring client programmer.
 --------
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
- <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white">  
+ <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo&logo=VisualStudio&logoColor=white">  
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
 <img src="https://img.shields.io/badge/Desktop-5C2D91?style=for-the-badge&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
