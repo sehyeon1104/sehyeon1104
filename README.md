@@ -28,12 +28,15 @@ My name is Kim Se-hyeon aspiring client programmer.
 🛠️Tool🛠
 --------
  <img src="https://img.shields.io/badge/Unity-FFFFFF?style=for-the-badge&logo=Unity&logoColor=black">
+ <img src="https://img.shields.io/badge/Unreal Engine-0E1128?style=for-the-badge&logo=Unreal Engine&logoColor=white"/>
  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=black">
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=VisualStudio&logoColor=white"> 
  <img src="https://img.shields.io/badge/SourceTree-0052CC?style=for-the-badge&logo=SourceTree&logoColor=white">  
 <img src="https://img.shields.io/badge/Desktop-5C2D91?style=for-the-badge&logo=GitHub&logoColor=white"/>
  <img src="https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=AdobePremierePro&logoColor=white">
+ <img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white">
  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
+
 
 ❤️Contact❤️
 ---------------
@@ -41,7 +44,6 @@ My name is Kim Se-hyeon aspiring client programmer.
  <a href="https://www.instagram.com/sehyeon.&#95;.1104" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/김세현%238989-5865F2?style=for-the-badge&logo=Discord&logoColor=white"/></a>
  <a href="https://www.youtube.com/channel/UCLPSgB8YF9kkVGCtdyMItGg"><img src="https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=YouTube&logoColor=white"></a>
-<img src="https://img.shields.io/badge/After Effects-9999FF?style=for-the-badge&logo=AdobeAfterEffects&logoColor=white">
 <a href="https://www.notion.so/Sehyeon-s-Notion-8dbba6346a4e4a5d8061571d7059117c?pvs=4"><img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white"/></a>
 ------
 Github Information
